@@ -1,0 +1,942 @@
+[
+  {
+    "timestamp": "2025-12-01T19:34:00",
+    "topic_id": "calculus_intro",
+    "exercises_attempted": 7,
+    "exercises_correct": 1,
+    "hints_used": 2,
+    "time_spent_seconds": 464,
+    "completion_rate": 0.61,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-04T11:08:00",
+    "topic_id": "functions_prog",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 0,
+    "time_spent_seconds": 876,
+    "completion_rate": 0.45,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-05T14:42:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 11,
+    "exercises_correct": 1,
+    "hints_used": 1,
+    "time_spent_seconds": 1734,
+    "completion_rate": 0.5,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-06T11:50:00",
+    "topic_id": "trigonometry",
+    "exercises_attempted": 4,
+    "exercises_correct": 1,
+    "hints_used": 0,
+    "time_spent_seconds": 1467,
+    "completion_rate": 0.6,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-06T20:50:00",
+    "topic_id": "functions_prog",
+    "exercises_attempted": 14,
+    "exercises_correct": 6,
+    "hints_used": 11,
+    "time_spent_seconds": 483,
+    "completion_rate": 0.55,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-07T14:08:00",
+    "topic_id": "linear_eq",
+    "exercises_attempted": 8,
+    "exercises_correct": 4,
+    "hints_used": 0,
+    "time_spent_seconds": 282,
+    "completion_rate": 0.54,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-08T12:57:00",
+    "topic_id": "linear_eq",
+    "exercises_attempted": 13,
+    "exercises_correct": 3,
+    "hints_used": 0,
+    "time_spent_seconds": 832,
+    "completion_rate": 0.5,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-09T14:55:00",
+    "topic_id": "probability",
+    "exercises_attempted": 7,
+    "exercises_correct": 2,
+    "hints_used": 3,
+    "time_spent_seconds": 588,
+    "completion_rate": 0.41,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-09T21:34:00",
+    "topic_id": "functions",
+    "exercises_attempted": 7,
+    "exercises_correct": 2,
+    "hints_used": 5,
+    "time_spent_seconds": 626,
+    "completion_rate": 0.62,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-10T19:18:00",
+    "topic_id": "algorithms",
+    "exercises_attempted": 13,
+    "exercises_correct": 2,
+    "hints_used": 6,
+    "time_spent_seconds": 810,
+    "completion_rate": 0.6,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-10T15:39:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 9,
+    "exercises_correct": 4,
+    "hints_used": 2,
+    "time_spent_seconds": 893,
+    "completion_rate": 0.87,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2025-12-11T09:45:00",
+    "topic_id": "data_structures",
+    "exercises_attempted": 5,
+    "exercises_correct": 1,
+    "hints_used": 5,
+    "time_spent_seconds": 597,
+    "completion_rate": 0.46,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-11T17:44:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 9,
+    "exercises_correct": 8,
+    "hints_used": 2,
+    "time_spent_seconds": 797,
+    "completion_rate": 0.92,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2025-12-11T08:24:00",
+    "topic_id": "work_energy",
+    "exercises_attempted": 9,
+    "exercises_correct": 0,
+    "hints_used": 9,
+    "time_spent_seconds": 265,
+    "completion_rate": 0.57,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2025-12-12T14:42:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 8,
+    "exercises_correct": 0,
+    "hints_used": 2,
+    "time_spent_seconds": 846,
+    "completion_rate": 0.53,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-13T12:21:00",
+    "topic_id": "waves",
+    "exercises_attempted": 14,
+    "exercises_correct": 0,
+    "hints_used": 3,
+    "time_spent_seconds": 638,
+    "completion_rate": 0.61,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-14T14:47:00",
+    "topic_id": "prog_basics",
+    "exercises_attempted": 10,
+    "exercises_correct": 8,
+    "hints_used": 1,
+    "time_spent_seconds": 303,
+    "completion_rate": 0.79,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2025-12-14T08:45:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 3,
+    "exercises_correct": 2,
+    "hints_used": 0,
+    "time_spent_seconds": 285,
+    "completion_rate": 0.89,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2025-12-14T13:11:00",
+    "topic_id": "kinematics",
+    "exercises_attempted": 10,
+    "exercises_correct": 2,
+    "hints_used": 1,
+    "time_spent_seconds": 683,
+    "completion_rate": 0.65,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-16T15:28:00",
+    "topic_id": "newtons_laws",
+    "exercises_attempted": 13,
+    "exercises_correct": 1,
+    "hints_used": 13,
+    "time_spent_seconds": 201,
+    "completion_rate": 0.66,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-16T19:31:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 8,
+    "exercises_correct": 6,
+    "hints_used": 0,
+    "time_spent_seconds": 706,
+    "completion_rate": 0.99,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2025-12-17T17:51:00",
+    "topic_id": "math_basics",
+    "exercises_attempted": 4,
+    "exercises_correct": 3,
+    "hints_used": 1,
+    "time_spent_seconds": 337,
+    "completion_rate": 0.98,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2025-12-17T11:29:00",
+    "topic_id": "recursion",
+    "exercises_attempted": 12,
+    "exercises_correct": 0,
+    "hints_used": 1,
+    "time_spent_seconds": 528,
+    "completion_rate": 0.48,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-18T14:14:00",
+    "topic_id": "waves",
+    "exercises_attempted": 8,
+    "exercises_correct": 1,
+    "hints_used": 7,
+    "time_spent_seconds": 575,
+    "completion_rate": 0.61,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-18T15:06:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 14,
+    "exercises_correct": 11,
+    "hints_used": 0,
+    "time_spent_seconds": 526,
+    "completion_rate": 0.72,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2025-12-19T11:38:00",
+    "topic_id": "waves",
+    "exercises_attempted": 6,
+    "exercises_correct": 0,
+    "hints_used": 4,
+    "time_spent_seconds": 823,
+    "completion_rate": 0.48,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-20T22:44:00",
+    "topic_id": "recursion",
+    "exercises_attempted": 6,
+    "exercises_correct": 1,
+    "hints_used": 4,
+    "time_spent_seconds": 559,
+    "completion_rate": 0.44,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-20T12:02:00",
+    "topic_id": "waves",
+    "exercises_attempted": 10,
+    "exercises_correct": 3,
+    "hints_used": 1,
+    "time_spent_seconds": 737,
+    "completion_rate": 0.69,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-21T17:00:00",
+    "topic_id": "trigonometry",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 1,
+    "time_spent_seconds": 956,
+    "completion_rate": 0.58,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2025-12-21T22:55:00",
+    "topic_id": "algebra_basics",
+    "exercises_attempted": 13,
+    "exercises_correct": 4,
+    "hints_used": 0,
+    "time_spent_seconds": 591,
+    "completion_rate": 0.42,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-24T15:32:00",
+    "topic_id": "newtons_laws",
+    "exercises_attempted": 14,
+    "exercises_correct": 4,
+    "hints_used": 14,
+    "time_spent_seconds": 620,
+    "completion_rate": 0.63,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-24T13:27:00",
+    "topic_id": "data_structures",
+    "exercises_attempted": 4,
+    "exercises_correct": 1,
+    "hints_used": 2,
+    "time_spent_seconds": 241,
+    "completion_rate": 0.64,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-24T13:06:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 13,
+    "exercises_correct": 11,
+    "hints_used": 1,
+    "time_spent_seconds": 538,
+    "completion_rate": 0.77,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2025-12-25T14:26:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 7,
+    "exercises_correct": 6,
+    "hints_used": 2,
+    "time_spent_seconds": 339,
+    "completion_rate": 0.88,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2025-12-25T12:28:00",
+    "topic_id": "trigonometry",
+    "exercises_attempted": 10,
+    "exercises_correct": 0,
+    "hints_used": 6,
+    "time_spent_seconds": 833,
+    "completion_rate": 0.48,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2025-12-26T09:00:00",
+    "topic_id": "probability",
+    "exercises_attempted": 5,
+    "exercises_correct": 0,
+    "hints_used": 4,
+    "time_spent_seconds": 253,
+    "completion_rate": 0.57,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-27T09:32:00",
+    "topic_id": "calculus_intro",
+    "exercises_attempted": 14,
+    "exercises_correct": 0,
+    "hints_used": 8,
+    "time_spent_seconds": 561,
+    "completion_rate": 0.58,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2025-12-29T13:05:00",
+    "topic_id": "probability",
+    "exercises_attempted": 8,
+    "exercises_correct": 2,
+    "hints_used": 4,
+    "time_spent_seconds": 312,
+    "completion_rate": 0.69,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-29T18:27:00",
+    "topic_id": "algorithms",
+    "exercises_attempted": 7,
+    "exercises_correct": 1,
+    "hints_used": 7,
+    "time_spent_seconds": 338,
+    "completion_rate": 0.46,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 6,
+    "exercises_correct": 0,
+    "hints_used": 3,
+    "time_spent_seconds": 1353,
+    "completion_rate": 0.67,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2025-12-30T12:05:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 11,
+    "exercises_correct": 11,
+    "hints_used": 0,
+    "time_spent_seconds": 407,
+    "completion_rate": 0.95,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2025-12-30T09:23:00",
+    "topic_id": "linear_eq",
+    "exercises_attempted": 10,
+    "exercises_correct": 2,
+    "hints_used": 2,
+    "time_spent_seconds": 639,
+    "completion_rate": 0.63,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2025-12-31T08:40:00",
+    "topic_id": "linear_eq",
+    "exercises_attempted": 5,
+    "exercises_correct": 1,
+    "hints_used": 2,
+    "time_spent_seconds": 371,
+    "completion_rate": 0.47,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-01T21:34:00",
+    "topic_id": "fractions",
+    "exercises_attempted": 13,
+    "exercises_correct": 12,
+    "hints_used": 0,
+    "time_spent_seconds": 851,
+    "completion_rate": 0.79,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-01-01T14:21:00",
+    "topic_id": "kinematics",
+    "exercises_attempted": 10,
+    "exercises_correct": 1,
+    "hints_used": 4,
+    "time_spent_seconds": 260,
+    "completion_rate": 0.64,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-02T09:15:00",
+    "topic_id": "work_energy",
+    "exercises_attempted": 9,
+    "exercises_correct": 1,
+    "hints_used": 2,
+    "time_spent_seconds": 560,
+    "completion_rate": 0.6,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-02T09:01:00",
+    "topic_id": "probability",
+    "exercises_attempted": 9,
+    "exercises_correct": 2,
+    "hints_used": 8,
+    "time_spent_seconds": 900,
+    "completion_rate": 0.44,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-03T19:46:00",
+    "topic_id": "functions",
+    "exercises_attempted": 9,
+    "exercises_correct": 1,
+    "hints_used": 9,
+    "time_spent_seconds": 837,
+    "completion_rate": 0.42,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-04T10:19:00",
+    "topic_id": "linear_eq",
+    "exercises_attempted": 13,
+    "exercises_correct": 3,
+    "hints_used": 8,
+    "time_spent_seconds": 809,
+    "completion_rate": 0.48,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-04T17:02:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 3,
+    "exercises_correct": 3,
+    "hints_used": 1,
+    "time_spent_seconds": 606,
+    "completion_rate": 0.9,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-07T11:13:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 7,
+    "exercises_correct": 3,
+    "hints_used": 2,
+    "time_spent_seconds": 729,
+    "completion_rate": 0.9,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-01-07T16:28:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 12,
+    "exercises_correct": 2,
+    "hints_used": 1,
+    "time_spent_seconds": 1742,
+    "completion_rate": 0.52,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-08T19:39:00",
+    "topic_id": "functions",
+    "exercises_attempted": 13,
+    "exercises_correct": 1,
+    "hints_used": 3,
+    "time_spent_seconds": 375,
+    "completion_rate": 0.41,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-09T19:13:00",
+    "topic_id": "functions",
+    "exercises_attempted": 10,
+    "exercises_correct": 0,
+    "hints_used": 4,
+    "time_spent_seconds": 872,
+    "completion_rate": 0.49,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2026-01-09T15:41:00",
+    "topic_id": "waves",
+    "exercises_attempted": 11,
+    "exercises_correct": 1,
+    "hints_used": 9,
+    "time_spent_seconds": 428,
+    "completion_rate": 0.62,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-09T11:03:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 11,
+    "exercises_correct": 2,
+    "hints_used": 10,
+    "time_spent_seconds": 668,
+    "completion_rate": 0.68,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-09T10:26:00",
+    "topic_id": "kinematics",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 3,
+    "time_spent_seconds": 476,
+    "completion_rate": 0.64,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-10T21:32:00",
+    "topic_id": "recursion",
+    "exercises_attempted": 4,
+    "exercises_correct": 0,
+    "hints_used": 2,
+    "time_spent_seconds": 525,
+    "completion_rate": 0.62,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-10T16:20:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 6,
+    "exercises_correct": 1,
+    "hints_used": 3,
+    "time_spent_seconds": 489,
+    "completion_rate": 0.63,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-10T15:47:00",
+    "topic_id": "prog_basics",
+    "exercises_attempted": 14,
+    "exercises_correct": 11,
+    "hints_used": 2,
+    "time_spent_seconds": 860,
+    "completion_rate": 0.97,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-10T16:45:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 8,
+    "exercises_correct": 2,
+    "hints_used": 8,
+    "time_spent_seconds": 1794,
+    "completion_rate": 0.53,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-12T16:24:00",
+    "topic_id": "waves",
+    "exercises_attempted": 8,
+    "exercises_correct": 1,
+    "hints_used": 1,
+    "time_spent_seconds": 809,
+    "completion_rate": 0.41,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-12T11:34:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 14,
+    "exercises_correct": 0,
+    "hints_used": 12,
+    "time_spent_seconds": 422,
+    "completion_rate": 0.6,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-12T17:56:00",
+    "topic_id": "work_energy",
+    "exercises_attempted": 13,
+    "exercises_correct": 1,
+    "hints_used": 6,
+    "time_spent_seconds": 532,
+    "completion_rate": 0.57,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 6,
+    "exercises_correct": 1,
+    "hints_used": 0,
+    "time_spent_seconds": 789,
+    "completion_rate": 0.68,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-13T19:30:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 6,
+    "exercises_correct": 0,
+    "hints_used": 4,
+    "time_spent_seconds": 196,
+    "completion_rate": 0.66,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-14T08:33:00",
+    "topic_id": "recursion",
+    "exercises_attempted": 13,
+    "exercises_correct": 2,
+    "hints_used": 0,
+    "time_spent_seconds": 562,
+    "completion_rate": 0.47,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-14T08:00:00",
+    "topic_id": "algorithms",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 2,
+    "time_spent_seconds": 197,
+    "completion_rate": 0.56,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-14T16:16:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 9,
+    "exercises_correct": 8,
+    "hints_used": 1,
+    "time_spent_seconds": 411,
+    "completion_rate": 0.87,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-14T14:24:00",
+    "topic_id": "probability",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 1,
+    "time_spent_seconds": 840,
+    "completion_rate": 0.42,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-15T20:47:00",
+    "topic_id": "fractions",
+    "exercises_attempted": 6,
+    "exercises_correct": 6,
+    "hints_used": 2,
+    "time_spent_seconds": 514,
+    "completion_rate": 0.99,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-01-15T13:35:00",
+    "topic_id": "algebra_basics",
+    "exercises_attempted": 13,
+    "exercises_correct": 2,
+    "hints_used": 9,
+    "time_spent_seconds": 813,
+    "completion_rate": 0.6,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-15T13:23:00",
+    "topic_id": "algorithms",
+    "exercises_attempted": 10,
+    "exercises_correct": 1,
+    "hints_used": 8,
+    "time_spent_seconds": 285,
+    "completion_rate": 0.57,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-16T09:10:00",
+    "topic_id": "statistics",
+    "exercises_attempted": 10,
+    "exercises_correct": 3,
+    "hints_used": 1,
+    "time_spent_seconds": 820,
+    "completion_rate": 0.51,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-18T16:02:00",
+    "topic_id": "functions_prog",
+    "exercises_attempted": 15,
+    "exercises_correct": 6,
+    "hints_used": 2,
+    "time_spent_seconds": 853,
+    "completion_rate": 0.43,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-18T09:16:00",
+    "topic_id": "newtons_laws",
+    "exercises_attempted": 3,
+    "exercises_correct": 1,
+    "hints_used": 3,
+    "time_spent_seconds": 267,
+    "completion_rate": 0.43,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-18T20:45:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 5,
+    "exercises_correct": 4,
+    "hints_used": 2,
+    "time_spent_seconds": 616,
+    "completion_rate": 0.75,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-18T19:39:00",
+    "topic_id": "work_energy",
+    "exercises_attempted": 9,
+    "exercises_correct": 0,
+    "hints_used": 3,
+    "time_spent_seconds": 771,
+    "completion_rate": 0.48,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-19T11:19:00",
+    "topic_id": "probability",
+    "exercises_attempted": 5,
+    "exercises_correct": 1,
+    "hints_used": 3,
+    "time_spent_seconds": 748,
+    "completion_rate": 0.59,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-19T16:32:00",
+    "topic_id": "prog_basics",
+    "exercises_attempted": 10,
+    "exercises_correct": 7,
+    "hints_used": 1,
+    "time_spent_seconds": 680,
+    "completion_rate": 0.91,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-01-20T11:27:00",
+    "topic_id": "waves",
+    "exercises_attempted": 8,
+    "exercises_correct": 1,
+    "hints_used": 1,
+    "time_spent_seconds": 394,
+    "completion_rate": 0.63,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-21T10:45:00",
+    "topic_id": "fractions",
+    "exercises_attempted": 13,
+    "exercises_correct": 12,
+    "hints_used": 1,
+    "time_spent_seconds": 592,
+    "completion_rate": 0.72,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-01-21T15:40:00",
+    "topic_id": "probability",
+    "exercises_attempted": 4,
+    "exercises_correct": 1,
+    "hints_used": 4,
+    "time_spent_seconds": 396,
+    "completion_rate": 0.52,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-21T22:43:00",
+    "topic_id": "recursion",
+    "exercises_attempted": 13,
+    "exercises_correct": 2,
+    "hints_used": 1,
+    "time_spent_seconds": 631,
+    "completion_rate": 0.68,
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-01-21T09:45:00",
+    "topic_id": "calculus_intro",
+    "exercises_attempted": 13,
+    "exercises_correct": 2,
+    "hints_used": 5,
+    "time_spent_seconds": 890,
+    "completion_rate": 0.65,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-25T19:42:00",
+    "topic_id": "variables_types",
+    "exercises_attempted": 14,
+    "exercises_correct": 14,
+    "hints_used": 0,
+    "time_spent_seconds": 688,
+    "completion_rate": 0.91,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "exercises_attempted": 9,
+    "exercises_correct": 1,
+    "hints_used": 9,
+    "time_spent_seconds": 1532,
+    "completion_rate": 0.59,
+    "retry_count": 5
+  },
+  {
+    "timestamp": "2026-01-25T14:58:00",
+    "topic_id": "quadratic_eq",
+    "exercises_attempted": 6,
+    "exercises_correct": 0,
+    "hints_used": 2,
+    "time_spent_seconds": 1363,
+    "completion_rate": 0.65,
+    "retry_count": 6
+  },
+  {
+    "timestamp": "2026-01-26T08:23:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 10,
+    "exercises_correct": 9,
+    "hints_used": 2,
+    "time_spent_seconds": 334,
+    "completion_rate": 0.97,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-01-26T11:26:00",
+    "topic_id": "control_flow",
+    "exercises_attempted": 5,
+    "exercises_correct": 1,
+    "hints_used": 5,
+    "time_spent_seconds": 417,
+    "completion_rate": 0.48,
+    "retry_count": 2
+  },
+  {
+    "timestamp": "2026-01-27T09:12:00",
+    "topic_id": "physics_units",
+    "exercises_attempted": 11,
+    "exercises_correct": 8,
+    "hints_used": 1,
+    "time_spent_seconds": 642,
+    "completion_rate": 0.99,
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-01-27T18:41:00",
+    "topic_id": "calculus_intro",
+    "exercises_attempted": 5,
+    "exercises_correct": 1,
+    "hints_used": 0,
+    "time_spent_seconds": 305,
+    "completion_rate": 0.67,
+    "retry_count": 4
+  },
+  {
+    "timestamp": "2026-01-28T18:56:00",
+    "topic_id": "math_basics",
+    "exercises_attempted": 15,
+    "exercises_correct": 13,
+    "hints_used": 2,
+    "time_spent_seconds": 547,
+    "completion_rate": 0.94,
+    "retry_count": 1
+  },
+  {
+    "timestamp": "2026-01-29T08:21:00",
+    "topic_id": "math_basics",
+    "exercises_attempted": 5,
+    "exercises_correct": 4,
+    "hints_used": 1,
+    "time_spent_seconds": 240,
+    "completion_rate": 0.92,
+    "retry_count": 1
+  }
+]

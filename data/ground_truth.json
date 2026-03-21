@@ -1,0 +1,31 @@
+{
+  "learner_id": "learner_001",
+  "true_mastery": {
+    "algebra_basics": 0.27788535969157674,
+    "control_flow": 0.15500215104453338,
+    "kinematics": 0.20500586367382384,
+    "math_basics": 0.7169632214446469,
+    "fractions": 0.8709413642492037,
+    "linear_eq": 0.2691748718557278,
+    "quadratic_eq": 0.12304489192621137,
+    "functions": 0.12173470815735404,
+    "trigonometry": 0.1,
+    "calculus_intro": 0.1,
+    "probability": 0.15465949370090082,
+    "statistics": 0.2263388220258406,
+    "physics_units": 0.6579607909051591,
+    "newtons_laws": 0.1497094126716621,
+    "work_energy": 0.1,
+    "waves": 0.1,
+    "prog_basics": 0.716132186612209,
+    "variables_types": 0.8267797051627725,
+    "functions_prog": 0.30235761416945667,
+    "data_structures": 0.1,
+    "recursion": 0.10145481295820202,
+    "algorithms": 0.1
+  },
+  "high_effort_topics": [
+    "quadratic_eq",
+    "trigonometry"
+  ]
+}

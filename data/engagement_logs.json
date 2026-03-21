@@ -1,0 +1,2963 @@
+[
+  {
+    "timestamp": "2025-12-01T11:08:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 462,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-01T11:08:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 268,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-01T11:08:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 233,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-01T19:34:00",
+    "topic_id": "calculus_intro",
+    "event_type": "resource_view",
+    "duration_seconds": 374,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-02T19:29:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 330,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-02T19:29:00",
+    "topic_id": "kinematics",
+    "event_type": "video_watch",
+    "duration_seconds": 400,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-02T19:04:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 403,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-02T19:04:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 303,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-02T18:41:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 362,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-02T18:41:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 264,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-02T18:41:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 440,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-02T11:58:00",
+    "topic_id": "fractions",
+    "event_type": "resource_view",
+    "duration_seconds": 541,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-02T11:58:00",
+    "topic_id": "fractions",
+    "event_type": "forum_post",
+    "duration_seconds": 499,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-04T11:08:00",
+    "topic_id": "functions_prog",
+    "event_type": "video_watch",
+    "duration_seconds": 424,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-04T11:08:00",
+    "topic_id": "functions_prog",
+    "event_type": "forum_post",
+    "duration_seconds": 571,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-04T16:55:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 579,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-04T20:41:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 335,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-04T16:38:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 49,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-04T16:38:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 344,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-04T16:38:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 110,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-05T10:42:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 463,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-05T10:42:00",
+    "topic_id": "control_flow",
+    "event_type": "forum_post",
+    "duration_seconds": 235,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-05T14:42:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 37,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-05T14:42:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 264,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-05T14:42:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 368,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T11:50:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 85,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-06T11:50:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 130,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T11:50:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 141,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T11:50:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 489,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T10:17:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 593,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T18:34:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 527,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T18:34:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "forum_post",
+    "duration_seconds": 90,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T18:34:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 429,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T20:50:00",
+    "topic_id": "functions_prog",
+    "event_type": "forum_post",
+    "duration_seconds": 585,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-06T13:03:00",
+    "topic_id": "prog_basics",
+    "event_type": "help_request",
+    "duration_seconds": 100,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-07T11:37:00",
+    "topic_id": "newtons_laws",
+    "event_type": "video_watch",
+    "duration_seconds": 565,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-07T11:37:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 351,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-07T14:08:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 548,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-07T22:22:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 478,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-07T22:22:00",
+    "topic_id": "functions_prog",
+    "event_type": "help_request",
+    "duration_seconds": 571,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-08T09:56:00",
+    "topic_id": "algorithms",
+    "event_type": "video_watch",
+    "duration_seconds": 300,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-08T12:57:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 482,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-08T12:57:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 39,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-08T22:44:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 181,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-08T22:44:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 403,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-08T22:44:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 70,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-08T22:44:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 285,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-08T13:49:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 272,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-08T13:49:00",
+    "topic_id": "probability",
+    "event_type": "forum_post",
+    "duration_seconds": 211,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-08T13:49:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 370,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-09T14:55:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 101,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-09T14:55:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 551,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-09T21:34:00",
+    "topic_id": "functions",
+    "event_type": "forum_post",
+    "duration_seconds": 148,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-09T21:34:00",
+    "topic_id": "functions",
+    "event_type": "video_watch",
+    "duration_seconds": 290,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-09T21:34:00",
+    "topic_id": "functions",
+    "event_type": "video_watch",
+    "duration_seconds": 562,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-09T16:43:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 471,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-09T16:43:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 368,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-09T16:43:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 157,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-10T19:18:00",
+    "topic_id": "algorithms",
+    "event_type": "resource_view",
+    "duration_seconds": 591,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-10T19:18:00",
+    "topic_id": "algorithms",
+    "event_type": "resource_view",
+    "duration_seconds": 245,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-10T19:18:00",
+    "topic_id": "algorithms",
+    "event_type": "video_watch",
+    "duration_seconds": 359,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-10T15:43:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 125,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-10T15:43:00",
+    "topic_id": "work_energy",
+    "event_type": "help_request",
+    "duration_seconds": 347,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-10T15:43:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 55,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-10T15:39:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 279,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-10T15:39:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 139,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-10T11:11:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 285,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-10T11:11:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 166,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-11T21:58:00",
+    "topic_id": "waves",
+    "event_type": "help_request",
+    "duration_seconds": 490,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T21:58:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 313,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-11T21:58:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 274,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T09:45:00",
+    "topic_id": "data_structures",
+    "event_type": "video_watch",
+    "duration_seconds": 455,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T09:45:00",
+    "topic_id": "data_structures",
+    "event_type": "help_request",
+    "duration_seconds": 428,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-11T17:44:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 309,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T08:24:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 502,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T08:24:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 365,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-11T08:24:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 418,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T08:22:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 159,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T08:22:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 253,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T08:22:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 407,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T17:47:00",
+    "topic_id": "algebra_basics",
+    "event_type": "forum_post",
+    "duration_seconds": 140,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T22:19:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 233,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T22:19:00",
+    "topic_id": "prog_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 278,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T20:19:00",
+    "topic_id": "math_basics",
+    "event_type": "help_request",
+    "duration_seconds": 72,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-12T14:42:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 581,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-12T14:42:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 304,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-13T11:48:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 536,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-13T11:48:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 247,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-13T12:21:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 256,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T14:47:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 152,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T14:47:00",
+    "topic_id": "prog_basics",
+    "event_type": "forum_post",
+    "duration_seconds": 219,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T14:47:00",
+    "topic_id": "prog_basics",
+    "event_type": "help_request",
+    "duration_seconds": 313,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T20:33:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 399,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T08:45:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 510,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-14T13:11:00",
+    "topic_id": "kinematics",
+    "event_type": "video_watch",
+    "duration_seconds": 84,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-15T20:26:00",
+    "topic_id": "algebra_basics",
+    "event_type": "help_request",
+    "duration_seconds": 419,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-15T15:19:00",
+    "topic_id": "calculus_intro",
+    "event_type": "video_watch",
+    "duration_seconds": 91,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-15T15:19:00",
+    "topic_id": "calculus_intro",
+    "event_type": "help_request",
+    "duration_seconds": 242,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-15T12:42:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 325,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-15T12:42:00",
+    "topic_id": "linear_eq",
+    "event_type": "help_request",
+    "duration_seconds": 494,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-15T11:59:00",
+    "topic_id": "control_flow",
+    "event_type": "help_request",
+    "duration_seconds": 103,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-15T11:59:00",
+    "topic_id": "control_flow",
+    "event_type": "help_request",
+    "duration_seconds": 325,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-16T15:28:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 71,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-16T15:28:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 561,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-16T15:28:00",
+    "topic_id": "newtons_laws",
+    "event_type": "forum_post",
+    "duration_seconds": 215,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-16T14:40:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 371,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-16T14:40:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 194,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-16T19:31:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 585,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-16T08:12:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 82,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-16T08:12:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 324,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-17T17:51:00",
+    "topic_id": "math_basics",
+    "event_type": "forum_post",
+    "duration_seconds": 328,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-17T17:51:00",
+    "topic_id": "math_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 524,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-17T11:29:00",
+    "topic_id": "recursion",
+    "event_type": "resource_view",
+    "duration_seconds": 32,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-17T11:29:00",
+    "topic_id": "recursion",
+    "event_type": "resource_view",
+    "duration_seconds": 531,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-17T11:29:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 525,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T14:14:00",
+    "topic_id": "waves",
+    "event_type": "help_request",
+    "duration_seconds": 185,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T14:14:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 544,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-18T14:14:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 132,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-18T15:06:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 112,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-18T15:06:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 576,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T15:06:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 529,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-18T08:39:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 132,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T08:39:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 59,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T08:39:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 330,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T08:39:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 280,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T08:39:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 214,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T09:39:00",
+    "topic_id": "calculus_intro",
+    "event_type": "video_watch",
+    "duration_seconds": 176,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T18:16:00",
+    "topic_id": "functions_prog",
+    "event_type": "forum_post",
+    "duration_seconds": 589,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-18T18:16:00",
+    "topic_id": "functions_prog",
+    "event_type": "video_watch",
+    "duration_seconds": 383,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T21:30:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 80,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T21:30:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 323,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T11:38:00",
+    "topic_id": "waves",
+    "event_type": "forum_post",
+    "duration_seconds": 70,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-19T15:02:00",
+    "topic_id": "statistics",
+    "event_type": "forum_post",
+    "duration_seconds": 364,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T10:12:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 376,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T10:12:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 107,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-19T10:12:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 436,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T10:12:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 404,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-19T14:00:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 410,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-19T14:00:00",
+    "topic_id": "newtons_laws",
+    "event_type": "resource_view",
+    "duration_seconds": 55,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-19T14:00:00",
+    "topic_id": "newtons_laws",
+    "event_type": "forum_post",
+    "duration_seconds": 365,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-20T22:44:00",
+    "topic_id": "recursion",
+    "event_type": "forum_post",
+    "duration_seconds": 583,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-20T22:44:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 188,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-20T22:44:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 531,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-20T12:02:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 437,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-20T12:02:00",
+    "topic_id": "waves",
+    "event_type": "forum_post",
+    "duration_seconds": 495,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-20T12:02:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 51,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-21T21:48:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 181,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-21T17:00:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 461,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-21T17:00:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 517,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-21T17:00:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 141,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-21T17:00:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 74,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-21T22:55:00",
+    "topic_id": "algebra_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 532,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-21T22:55:00",
+    "topic_id": "algebra_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 112,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T15:32:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 453,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T15:32:00",
+    "topic_id": "newtons_laws",
+    "event_type": "video_watch",
+    "duration_seconds": 455,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-24T13:27:00",
+    "topic_id": "data_structures",
+    "event_type": "forum_post",
+    "duration_seconds": 367,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-24T13:27:00",
+    "topic_id": "data_structures",
+    "event_type": "video_watch",
+    "duration_seconds": 463,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-24T13:27:00",
+    "topic_id": "data_structures",
+    "event_type": "help_request",
+    "duration_seconds": 324,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-24T13:06:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 315,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T13:06:00",
+    "topic_id": "variables_types",
+    "event_type": "help_request",
+    "duration_seconds": 600,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T13:06:00",
+    "topic_id": "variables_types",
+    "event_type": "forum_post",
+    "duration_seconds": 303,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T12:44:00",
+    "topic_id": "statistics",
+    "event_type": "resource_view",
+    "duration_seconds": 176,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-24T12:44:00",
+    "topic_id": "statistics",
+    "event_type": "video_watch",
+    "duration_seconds": 175,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-25T14:26:00",
+    "topic_id": "variables_types",
+    "event_type": "help_request",
+    "duration_seconds": 80,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-25T12:28:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 320,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-25T12:28:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 569,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-25T12:28:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 434,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-25T12:28:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 239,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-26T09:00:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 73,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-26T09:00:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 109,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-26T17:27:00",
+    "topic_id": "statistics",
+    "event_type": "resource_view",
+    "duration_seconds": 444,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-26T17:27:00",
+    "topic_id": "statistics",
+    "event_type": "resource_view",
+    "duration_seconds": 501,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-26T22:23:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 347,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-26T22:23:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 202,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-26T22:23:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 573,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-27T09:09:00",
+    "topic_id": "kinematics",
+    "event_type": "help_request",
+    "duration_seconds": 489,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T09:09:00",
+    "topic_id": "kinematics",
+    "event_type": "help_request",
+    "duration_seconds": 360,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T18:20:00",
+    "topic_id": "recursion",
+    "event_type": "resource_view",
+    "duration_seconds": 549,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-27T18:20:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 68,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-27T18:20:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 108,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T21:05:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 72,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-27T21:05:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 222,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-27T21:05:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 184,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T21:05:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 381,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T09:32:00",
+    "topic_id": "calculus_intro",
+    "event_type": "resource_view",
+    "duration_seconds": 376,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-27T09:32:00",
+    "topic_id": "calculus_intro",
+    "event_type": "resource_view",
+    "duration_seconds": 372,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T13:05:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 116,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T13:05:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 366,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T13:05:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 569,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T18:27:00",
+    "topic_id": "algorithms",
+    "event_type": "resource_view",
+    "duration_seconds": 133,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T16:53:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 164,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T16:53:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 215,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T16:53:00",
+    "topic_id": "data_structures",
+    "event_type": "help_request",
+    "duration_seconds": 199,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "forum_post",
+    "duration_seconds": 481,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 421,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 195,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 171,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-29T08:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 522,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-30T12:05:00",
+    "topic_id": "variables_types",
+    "event_type": "help_request",
+    "duration_seconds": 57,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-30T12:05:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 412,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-30T09:23:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 111,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-30T09:23:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 183,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-30T09:23:00",
+    "topic_id": "linear_eq",
+    "event_type": "help_request",
+    "duration_seconds": 570,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-31T11:26:00",
+    "topic_id": "statistics",
+    "event_type": "resource_view",
+    "duration_seconds": 541,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-31T08:40:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 566,
+    "completed": false
+  },
+  {
+    "timestamp": "2025-12-31T08:40:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 568,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-31T08:40:00",
+    "topic_id": "linear_eq",
+    "event_type": "help_request",
+    "duration_seconds": 549,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-31T14:55:00",
+    "topic_id": "fractions",
+    "event_type": "resource_view",
+    "duration_seconds": 46,
+    "completed": true
+  },
+  {
+    "timestamp": "2025-12-31T14:55:00",
+    "topic_id": "fractions",
+    "event_type": "resource_view",
+    "duration_seconds": 276,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T13:52:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 520,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-01T13:52:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 94,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-01T13:52:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "forum_post",
+    "duration_seconds": 67,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T13:52:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 234,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-01T13:52:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 347,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T21:34:00",
+    "topic_id": "fractions",
+    "event_type": "resource_view",
+    "duration_seconds": 406,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T21:34:00",
+    "topic_id": "fractions",
+    "event_type": "video_watch",
+    "duration_seconds": 480,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-01T14:21:00",
+    "topic_id": "kinematics",
+    "event_type": "video_watch",
+    "duration_seconds": 214,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T14:21:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 111,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-01T12:19:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 389,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-02T20:03:00",
+    "topic_id": "data_structures",
+    "event_type": "help_request",
+    "duration_seconds": 478,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-02T09:15:00",
+    "topic_id": "work_energy",
+    "event_type": "help_request",
+    "duration_seconds": 170,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-02T09:15:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 315,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-02T09:01:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 322,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-02T09:01:00",
+    "topic_id": "probability",
+    "event_type": "forum_post",
+    "duration_seconds": 234,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-02T21:04:00",
+    "topic_id": "recursion",
+    "event_type": "forum_post",
+    "duration_seconds": 357,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-02T21:04:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 593,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-03T16:14:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 594,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-03T16:14:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 97,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-03T19:46:00",
+    "topic_id": "functions",
+    "event_type": "video_watch",
+    "duration_seconds": 559,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-03T22:53:00",
+    "topic_id": "kinematics",
+    "event_type": "help_request",
+    "duration_seconds": 162,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-04T10:19:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 202,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-04T10:19:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 205,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-04T10:19:00",
+    "topic_id": "linear_eq",
+    "event_type": "help_request",
+    "duration_seconds": 375,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-04T17:02:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 539,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-04T17:02:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 339,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-04T17:02:00",
+    "topic_id": "variables_types",
+    "event_type": "help_request",
+    "duration_seconds": 445,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T13:55:00",
+    "topic_id": "waves",
+    "event_type": "forum_post",
+    "duration_seconds": 163,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-07T13:55:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 138,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T15:07:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 193,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-07T15:07:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 350,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T15:07:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 557,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T15:07:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 539,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T15:07:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 547,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T11:13:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 471,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T12:46:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 325,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T16:28:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 233,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-07T16:28:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 71,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-07T16:28:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 371,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-07T16:28:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 182,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-08T17:47:00",
+    "topic_id": "data_structures",
+    "event_type": "help_request",
+    "duration_seconds": 575,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-08T17:47:00",
+    "topic_id": "data_structures",
+    "event_type": "video_watch",
+    "duration_seconds": 516,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-08T17:47:00",
+    "topic_id": "data_structures",
+    "event_type": "resource_view",
+    "duration_seconds": 142,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-08T17:19:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 515,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-08T17:19:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 263,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-08T17:19:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 204,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-08T19:39:00",
+    "topic_id": "functions",
+    "event_type": "video_watch",
+    "duration_seconds": 458,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-08T19:13:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 93,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-08T19:13:00",
+    "topic_id": "newtons_laws",
+    "event_type": "video_watch",
+    "duration_seconds": 362,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-09T18:49:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 525,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T18:49:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 335,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T18:49:00",
+    "topic_id": "physics_units",
+    "event_type": "forum_post",
+    "duration_seconds": 334,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T19:13:00",
+    "topic_id": "functions",
+    "event_type": "resource_view",
+    "duration_seconds": 434,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-09T19:13:00",
+    "topic_id": "functions",
+    "event_type": "forum_post",
+    "duration_seconds": 179,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T19:13:00",
+    "topic_id": "functions",
+    "event_type": "resource_view",
+    "duration_seconds": 110,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T15:41:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 573,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T11:03:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 324,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-09T11:03:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 121,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-09T11:03:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 68,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-09T10:26:00",
+    "topic_id": "kinematics",
+    "event_type": "resource_view",
+    "duration_seconds": 139,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-10T21:32:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 227,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T21:32:00",
+    "topic_id": "recursion",
+    "event_type": "help_request",
+    "duration_seconds": 445,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-10T16:20:00",
+    "topic_id": "control_flow",
+    "event_type": "help_request",
+    "duration_seconds": 41,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:20:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 271,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:20:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 344,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T18:32:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 332,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T18:32:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 166,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T15:47:00",
+    "topic_id": "prog_basics",
+    "event_type": "help_request",
+    "duration_seconds": 113,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:45:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 552,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:45:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 165,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:45:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 89,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-10T16:45:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 345,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-11T09:02:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 100,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-11T09:02:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 323,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-11T09:02:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 460,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-11T09:02:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 489,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-11T09:02:00",
+    "topic_id": "trigonometry",
+    "event_type": "forum_post",
+    "duration_seconds": 414,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-11T18:55:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 580,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-11T18:55:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 258,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-12T16:24:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 98,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-12T08:28:00",
+    "topic_id": "algorithms",
+    "event_type": "resource_view",
+    "duration_seconds": 75,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-12T11:34:00",
+    "topic_id": "control_flow",
+    "event_type": "help_request",
+    "duration_seconds": 563,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-12T11:34:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 92,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-12T17:56:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 567,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-12T17:56:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 182,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-12T17:56:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 580,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 225,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 70,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 252,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "forum_post",
+    "duration_seconds": 370,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T14:26:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "forum_post",
+    "duration_seconds": 246,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-13T19:07:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 239,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T11:35:00",
+    "topic_id": "fractions",
+    "event_type": "resource_view",
+    "duration_seconds": 398,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T11:35:00",
+    "topic_id": "fractions",
+    "event_type": "video_watch",
+    "duration_seconds": 130,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T19:30:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 457,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-13T19:30:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 265,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-14T20:52:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 202,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T20:52:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 173,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T20:52:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 585,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T08:33:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 524,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T08:00:00",
+    "topic_id": "algorithms",
+    "event_type": "help_request",
+    "duration_seconds": 470,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T08:00:00",
+    "topic_id": "algorithms",
+    "event_type": "forum_post",
+    "duration_seconds": 139,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T08:00:00",
+    "topic_id": "algorithms",
+    "event_type": "video_watch",
+    "duration_seconds": 276,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-14T16:16:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 112,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-14T16:16:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 62,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-14T14:24:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 127,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-14T14:24:00",
+    "topic_id": "probability",
+    "event_type": "forum_post",
+    "duration_seconds": 265,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T17:42:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 276,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T17:42:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 583,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T20:47:00",
+    "topic_id": "fractions",
+    "event_type": "video_watch",
+    "duration_seconds": 491,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T13:35:00",
+    "topic_id": "algebra_basics",
+    "event_type": "help_request",
+    "duration_seconds": 105,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T13:35:00",
+    "topic_id": "algebra_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 187,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-15T13:23:00",
+    "topic_id": "algorithms",
+    "event_type": "resource_view",
+    "duration_seconds": 597,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-15T17:50:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 203,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-16T09:10:00",
+    "topic_id": "statistics",
+    "event_type": "video_watch",
+    "duration_seconds": 230,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T09:10:00",
+    "topic_id": "statistics",
+    "event_type": "resource_view",
+    "duration_seconds": 36,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-16T13:53:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 470,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-16T13:53:00",
+    "topic_id": "probability",
+    "event_type": "help_request",
+    "duration_seconds": 169,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T17:44:00",
+    "topic_id": "prog_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 278,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T17:44:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 432,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T17:44:00",
+    "topic_id": "prog_basics",
+    "event_type": "forum_post",
+    "duration_seconds": 234,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T16:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 244,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T16:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 100,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-16T16:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 448,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-16T16:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 340,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-16T16:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 463,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-18T16:02:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 75,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T16:02:00",
+    "topic_id": "functions_prog",
+    "event_type": "video_watch",
+    "duration_seconds": 439,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-18T16:02:00",
+    "topic_id": "functions_prog",
+    "event_type": "resource_view",
+    "duration_seconds": 470,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T09:16:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 175,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T13:29:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 478,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-18T13:29:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 98,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T20:45:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 444,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T20:45:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 472,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-18T19:39:00",
+    "topic_id": "work_energy",
+    "event_type": "help_request",
+    "duration_seconds": 579,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-19T18:20:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 390,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-19T18:20:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 334,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-19T18:20:00",
+    "topic_id": "linear_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 167,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-19T11:19:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 173,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-19T21:28:00",
+    "topic_id": "algorithms",
+    "event_type": "video_watch",
+    "duration_seconds": 229,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-19T16:32:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 61,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-19T11:18:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 145,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-19T11:18:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 586,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-20T11:27:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 389,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-20T11:27:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 468,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-20T11:27:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 241,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-20T20:03:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 361,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-20T20:03:00",
+    "topic_id": "control_flow",
+    "event_type": "resource_view",
+    "duration_seconds": 303,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-20T20:03:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 127,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T10:45:00",
+    "topic_id": "fractions",
+    "event_type": "help_request",
+    "duration_seconds": 407,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T10:45:00",
+    "topic_id": "fractions",
+    "event_type": "video_watch",
+    "duration_seconds": 32,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-21T10:45:00",
+    "topic_id": "fractions",
+    "event_type": "help_request",
+    "duration_seconds": 125,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T15:40:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 320,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T15:40:00",
+    "topic_id": "probability",
+    "event_type": "video_watch",
+    "duration_seconds": 526,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-21T22:43:00",
+    "topic_id": "recursion",
+    "event_type": "resource_view",
+    "duration_seconds": 468,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T22:43:00",
+    "topic_id": "recursion",
+    "event_type": "video_watch",
+    "duration_seconds": 165,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-21T12:10:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 286,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T12:10:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 199,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T12:10:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 269,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-21T09:45:00",
+    "topic_id": "calculus_intro",
+    "event_type": "video_watch",
+    "duration_seconds": 264,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-22T13:56:00",
+    "topic_id": "linear_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 38,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-22T10:28:00",
+    "topic_id": "physics_units",
+    "event_type": "resource_view",
+    "duration_seconds": 132,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T12:41:00",
+    "topic_id": "work_energy",
+    "event_type": "help_request",
+    "duration_seconds": 240,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T12:41:00",
+    "topic_id": "work_energy",
+    "event_type": "video_watch",
+    "duration_seconds": 431,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T12:41:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 275,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T09:15:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 42,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-24T09:15:00",
+    "topic_id": "physics_units",
+    "event_type": "forum_post",
+    "duration_seconds": 165,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T09:15:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 460,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T18:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 99,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-24T18:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 91,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-24T18:11:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "video_watch",
+    "duration_seconds": 323,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-24T16:49:00",
+    "topic_id": "calculus_intro",
+    "event_type": "video_watch",
+    "duration_seconds": 580,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-25T16:20:00",
+    "topic_id": "algebra_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 86,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T19:42:00",
+    "topic_id": "variables_types",
+    "event_type": "video_watch",
+    "duration_seconds": 295,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T19:42:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 305,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "event_type": "video_watch",
+    "duration_seconds": 541,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 191,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 148,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "event_type": "help_request",
+    "duration_seconds": 75,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-25T09:49:00",
+    "topic_id": "trigonometry",
+    "event_type": "resource_view",
+    "duration_seconds": 77,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T14:58:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 83,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-25T14:58:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "help_request",
+    "duration_seconds": 77,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-25T14:58:00",
+    "topic_id": "quadratic_eq",
+    "event_type": "resource_view",
+    "duration_seconds": 506,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-26T08:23:00",
+    "topic_id": "physics_units",
+    "event_type": "forum_post",
+    "duration_seconds": 54,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-26T13:40:00",
+    "topic_id": "algebra_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 415,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-26T13:40:00",
+    "topic_id": "algebra_basics",
+    "event_type": "help_request",
+    "duration_seconds": 136,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-26T11:26:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 411,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-26T11:26:00",
+    "topic_id": "control_flow",
+    "event_type": "help_request",
+    "duration_seconds": 127,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-26T11:26:00",
+    "topic_id": "control_flow",
+    "event_type": "video_watch",
+    "duration_seconds": 433,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-26T17:03:00",
+    "topic_id": "waves",
+    "event_type": "resource_view",
+    "duration_seconds": 352,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-27T09:12:00",
+    "topic_id": "physics_units",
+    "event_type": "video_watch",
+    "duration_seconds": 152,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-27T09:12:00",
+    "topic_id": "physics_units",
+    "event_type": "help_request",
+    "duration_seconds": 341,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-27T19:38:00",
+    "topic_id": "waves",
+    "event_type": "help_request",
+    "duration_seconds": 208,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-27T19:38:00",
+    "topic_id": "waves",
+    "event_type": "video_watch",
+    "duration_seconds": 493,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-27T16:15:00",
+    "topic_id": "probability",
+    "event_type": "resource_view",
+    "duration_seconds": 440,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-27T18:41:00",
+    "topic_id": "calculus_intro",
+    "event_type": "forum_post",
+    "duration_seconds": 81,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:22:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 332,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:22:00",
+    "topic_id": "prog_basics",
+    "event_type": "help_request",
+    "duration_seconds": 520,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:22:00",
+    "topic_id": "prog_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 170,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T18:56:00",
+    "topic_id": "math_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 526,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T18:56:00",
+    "topic_id": "math_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 359,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:01:00",
+    "topic_id": "newtons_laws",
+    "event_type": "forum_post",
+    "duration_seconds": 193,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:01:00",
+    "topic_id": "newtons_laws",
+    "event_type": "video_watch",
+    "duration_seconds": 302,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T10:01:00",
+    "topic_id": "newtons_laws",
+    "event_type": "help_request",
+    "duration_seconds": 87,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-28T11:36:00",
+    "topic_id": "algorithms",
+    "event_type": "forum_post",
+    "duration_seconds": 207,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T11:36:00",
+    "topic_id": "algorithms",
+    "event_type": "video_watch",
+    "duration_seconds": 397,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-28T08:45:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 222,
+    "completed": false
+  },
+  {
+    "timestamp": "2026-01-28T08:45:00",
+    "topic_id": "work_energy",
+    "event_type": "help_request",
+    "duration_seconds": 534,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-28T08:45:00",
+    "topic_id": "work_energy",
+    "event_type": "resource_view",
+    "duration_seconds": 68,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-29T08:21:00",
+    "topic_id": "math_basics",
+    "event_type": "resource_view",
+    "duration_seconds": 175,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-29T21:33:00",
+    "topic_id": "variables_types",
+    "event_type": "help_request",
+    "duration_seconds": 435,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-29T21:33:00",
+    "topic_id": "variables_types",
+    "event_type": "resource_view",
+    "duration_seconds": 360,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-29T10:46:00",
+    "topic_id": "prog_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 208,
+    "completed": true
+  },
+  {
+    "timestamp": "2026-01-29T10:46:00",
+    "topic_id": "prog_basics",
+    "event_type": "video_watch",
+    "duration_seconds": 395,
+    "completed": true
+  }
+]

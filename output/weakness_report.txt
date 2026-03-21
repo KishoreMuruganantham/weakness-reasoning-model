@@ -1,0 +1,591 @@
+================================================================================
+  INTELLIGENT WEAKNESS REASONING MODEL - ANALYSIS REPORT
+================================================================================
+  Generated: 2026-03-21 14:41:48
+  Model: Multi-Signal Bayesian Weakness Reasoning Engine v1.0
+================================================================================
+
+--------------------------------------------------------------------------------
+  EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+
+  Total Weaknesses Detected: 17
+    Critical (severity >= 0.7): 7
+    Moderate (0.4 - 0.7):      10
+    Mild (< 0.4):               0
+
+  Weaknesses by Domain:
+    Mathematics: 8 weaknesses (avg severity: 0.690)
+    Physics: 4 weaknesses (avg severity: 0.647)
+    Programming: 5 weaknesses (avg severity: 0.661)
+
+  Weakness Type Distribution:
+    Prerequisite Cascade: 15
+    Declining Performance: 2
+
+--------------------------------------------------------------------------------
+  RANKED WEAKNESS LIST (by severity)
+--------------------------------------------------------------------------------
+
+  Rank  Topic                          Severity   P(Mastery)   Trend      Confidence Type
+  ----  -----                          --------   ----------   -----      ---------- ----
+  1     Linear Equations               0.871      9.5%         declining  0.913      prerequisite_cascade
+  2     Algebra Basics                 0.821      9.5%         declining  0.999      declining
+  3     Control Flow (if/else/loops)   0.760      13.3%        declining  0.939      declining
+  4     Functions & Graphs             0.752      9.5%         declining  1.000      prerequisite_cascade
+  5     Kinematics                     0.729      8.6%         declining  0.978      prerequisite_cascade
+  6     Trigonometry                   0.721      9.5%         stagnant   0.981      prerequisite_cascade
+  7     Data Structures                0.719      13.3%        declining  0.899      prerequisite_cascade
+  8     Newton's Laws of Motion        0.674      8.6%         stagnant   0.978      prerequisite_cascade
+  9     Probability                    0.653      9.7%         declining  0.966      prerequisite_cascade
+  10    Algorithms & Complexity        0.625      13.2%        declining  0.934      prerequisite_cascade
+  11    Recursion                      0.610      13.2%        improving  0.998      prerequisite_cascade
+  12    Waves & Oscillations           0.610      8.0%         declining  0.978      prerequisite_cascade
+  13    Introduction to Calculus       0.591      9.6%         improving  0.981      prerequisite_cascade
+  14    Functions & Scope              0.591      13.2%        declining  0.600      prerequisite_cascade
+  15    Statistics                     0.590      9.5%         declining  0.395      prerequisite_cascade
+  16    Work & Energy                  0.576      8.0%         stagnant   1.000      prerequisite_cascade
+  17    Quadratic Equations            0.521      9.5%         stagnant   1.000      prerequisite_cascade
+
+--------------------------------------------------------------------------------
+  DETAILED WEAKNESS ANALYSIS
+--------------------------------------------------------------------------------
+
+  [1] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.871 | Confidence: 0.913 | P(Mastery): 9.5%
+
+  [Prerequisite Cascade Effect] Linear Equations (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Average test accuracy is 35.0% across 4 attempts
+    - Practice accuracy is 27.2% across 5 sessions
+    - Average session completion is only 52.4%
+    - Mastery is declining over time (velocity: -0.2597)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.2597).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (8 topics affected):
+    - Quadratic Equations
+    - Work & Energy
+    - Newton's Laws of Motion
+    - Trigonometry
+    - Introduction to Calculus
+    ... and 3 more
+
+  [2] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.821 | Confidence: 0.999 | P(Mastery): 9.5%
+
+  [Declining Performance] Algebra Basics (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Average test accuracy is 20.0% across 1 attempts
+    - Practice accuracy is 23.1% across 2 sessions
+    - Average session completion is only 51.0%
+    - Mastery is declining over time (velocity: -0.1088)
+  
+  TREND: Performance is DECLINING (velocity: -0.1088).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (11 topics affected):
+    - Quadratic Equations
+    - Work & Energy
+    - Newton's Laws of Motion
+    - Trigonometry
+    - Probability
+    ... and 6 more
+
+  [3] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.760 | Confidence: 0.939 | P(Mastery): 13.3%
+
+  [Declining Performance] Control Flow (if/else/loops) (Programming)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 13.3% mastery probability (threshold: 50%)
+    - Average test accuracy is 15.3% across 6 attempts
+    - Practice accuracy is 9.1% across 6 sessions
+    - High hint usage (0.70 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 59.7%
+    - Mastery is declining over time (velocity: -0.1668)
+  
+  TREND: Performance is DECLINING (velocity: -0.1668).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (4 topics affected):
+    - Recursion
+    - Data Structures
+    - Functions & Scope
+    - Algorithms & Complexity
+
+  [4] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.752 | Confidence: 1.000 | P(Mastery): 9.5%
+
+  [Prerequisite Cascade Effect] Functions & Graphs (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Average test accuracy is 0.0% across 1 attempts
+    - Practice accuracy is 11.8% across 4 sessions
+    - High hint usage (0.59 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 48.5%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0205).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (4 topics affected):
+    - Waves & Oscillations
+    - Work & Energy
+    - Introduction to Calculus
+    - Trigonometry
+
+  [5] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.729 | Confidence: 0.978 | P(Mastery): 8.6%
+
+  [Prerequisite Cascade Effect] Kinematics (Physics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 8.6% mastery probability (threshold: 50%)
+    - Average test accuracy is 18.3% across 2 attempts
+    - Test accuracy is declining (slope: -0.1667)
+    - Practice accuracy is 21.1% across 3 sessions
+    - High hint usage (0.50 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 64.3%
+    - Mastery is declining over time (velocity: -0.0363)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0363).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (3 topics affected):
+    - Waves & Oscillations
+    - Work & Energy
+    - Newton's Laws of Motion
+
+  [6] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.721 | Confidence: 0.981 | P(Mastery): 9.5%
+
+  [Prerequisite Cascade Effect] Trigonometry (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Average test accuracy is 11.7% across 4 attempts
+    - Test accuracy is declining (slope: -0.0400)
+    - Practice accuracy is 17.4% across 4 sessions
+    - High hint usage (0.48 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 56.2%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Functions & Graphs (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is STAGNANT.
+    Current learning strategies are not producing measurable improvement.
+  
+  DOWNSTREAM IMPACT (3 topics affected):
+    - Waves & Oscillations
+    - Work & Energy
+    - Introduction to Calculus
+
+  [7] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.719 | Confidence: 0.899 | P(Mastery): 13.3%
+
+  [Prerequisite Cascade Effect] Data Structures (Programming)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 13.3% mastery probability (threshold: 50%)
+    - Average test accuracy is 14.0% across 5 attempts
+    - High question skip rate of 18.0% suggests avoidance or lack of confidence
+    - Practice accuracy is 22.5% across 2 sessions
+    - High hint usage (0.75 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 55.0%
+    - Mastery is declining over time (velocity: -0.0730)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Functions & Scope (P(mastery)=13.2%)
+    -> Control Flow (if/else/loops) (P(mastery)=13.3%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0730).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (2 topics affected):
+    - Recursion
+    - Algorithms & Complexity
+
+  [8] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.674 | Confidence: 0.978 | P(Mastery): 8.6%
+
+  [Prerequisite Cascade Effect] Newton's Laws of Motion (Physics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 8.6% mastery probability (threshold: 50%)
+    - Average test accuracy is 19.3% across 5 attempts
+    - High question skip rate of 29.3% suggests avoidance or lack of confidence
+    - Practice accuracy is 23.2% across 3 sessions
+    - High hint usage (1.00 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 57.3%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Kinematics (P(mastery)=8.6%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is STAGNANT.
+    Current learning strategies are not producing measurable improvement.
+  
+  DOWNSTREAM IMPACT (2 topics affected):
+    - Waves & Oscillations
+    - Work & Energy
+
+  [9] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.653 | Confidence: 0.966 | P(Mastery): 9.7%
+
+  [Prerequisite Cascade Effect] Probability (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.7% mastery probability (threshold: 50%)
+    - Average test accuracy is 21.2% across 7 attempts
+    - Practice accuracy is 22.0% across 7 sessions
+    - High hint usage (0.65 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 52.0%
+    - Mastery is declining over time (velocity: -0.0883)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0883).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (1 topics affected):
+    - Statistics
+
+  [10] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.625 | Confidence: 0.934 | P(Mastery): 13.2%
+
+  [Prerequisite Cascade Effect] Algorithms & Complexity (Programming)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 13.2% mastery probability (threshold: 50%)
+    - Average test accuracy is 10.0% across 2 attempts
+    - High question skip rate of 20.0% suggests avoidance or lack of confidence
+    - Practice accuracy is 18.3% across 4 sessions
+    - High hint usage (0.73 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 54.8%
+    - Mastery is declining over time (velocity: -0.0434)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Recursion (P(mastery)=13.2%)
+    -> Functions & Scope (P(mastery)=13.2%)
+    -> Control Flow (if/else/loops) (P(mastery)=13.3%)
+    -> Data Structures (P(mastery)=13.3%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0434).
+    This requires immediate attention as the gap is widening.
+
+  [11] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.610 | Confidence: 0.998 | P(Mastery): 13.2%
+
+  [Prerequisite Cascade Effect] Recursion (Programming)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 13.2% mastery probability (threshold: 50%)
+    - Average test accuracy is 11.2% across 4 attempts
+    - High question skip rate of 22.5% suggests avoidance or lack of confidence
+    - Practice accuracy is 9.5% across 5 sessions
+    - Average session completion is only 53.8%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Functions & Scope (P(mastery)=13.2%)
+    -> Control Flow (if/else/loops) (P(mastery)=13.3%)
+    -> Data Structures (P(mastery)=13.3%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Some improvement detected (velocity: 0.0779).
+    The learner is making progress, but has not yet reached mastery.
+  
+  DOWNSTREAM IMPACT (1 topics affected):
+    - Algorithms & Complexity
+
+  [12] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.610 | Confidence: 0.978 | P(Mastery): 8.0%
+
+  [Prerequisite Cascade Effect] Waves & Oscillations (Physics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 8.0% mastery probability (threshold: 50%)
+    - Average test accuracy is 16.7% across 4 attempts
+    - Practice accuracy is 10.9% across 7 sessions
+    - High hint usage (0.42 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 57.9%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Trigonometry (P(mastery)=9.5%)
+    -> Functions & Graphs (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Newton's Laws of Motion (P(mastery)=8.6%)
+    -> Kinematics (P(mastery)=8.6%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0227).
+    This requires immediate attention as the gap is widening.
+
+  [13] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.591 | Confidence: 0.981 | P(Mastery): 9.6%
+
+  [Prerequisite Cascade Effect] Introduction to Calculus (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.6% mastery probability (threshold: 50%)
+    - Average test accuracy is 10.0% across 2 attempts
+    - Practice accuracy is 12.4% across 4 sessions
+    - Average session completion is only 62.7%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Functions & Graphs (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Trigonometry (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Some improvement detected (velocity: 0.0504).
+    The learner is making progress, but has not yet reached mastery.
+  
+  DOWNSTREAM IMPACT (1 topics affected):
+    - Work & Energy
+
+  [14] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.591 | Confidence: 0.600 | P(Mastery): 13.2%
+
+  [Prerequisite Cascade Effect] Functions & Scope (Programming)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 13.2% mastery probability (threshold: 50%)
+    - Practice accuracy is 38.7% across 3 sessions
+    - Average session completion is only 47.7%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Control Flow (if/else/loops) (P(mastery)=13.3%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0273).
+    This requires immediate attention as the gap is widening.
+  
+  DOWNSTREAM IMPACT (3 topics affected):
+    - Recursion
+    - Data Structures
+    - Algorithms & Complexity
+
+  [15] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.590 | Confidence: 0.395 | P(Mastery): 9.5%
+
+  [Prerequisite Cascade Effect] Statistics (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Practice accuracy is 30.0% across 1 sessions
+    - Average session completion is only 51.0%
+    - Mastery is declining over time (velocity: -0.0654)
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Probability (P(mastery)=9.7%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is DECLINING (velocity: -0.0654).
+    This requires immediate attention as the gap is widening.
+
+  [16] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.576 | Confidence: 1.000 | P(Mastery): 8.0%
+
+  [Prerequisite Cascade Effect] Work & Energy (Physics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 8.0% mastery probability (threshold: 50%)
+    - Average test accuracy is 14.4% across 3 attempts
+    - High question skip rate of 20.0% suggests avoidance or lack of confidence
+    - Test accuracy is declining (slope: -0.0333)
+    - Practice accuracy is 4.7% across 4 sessions
+    - High hint usage (0.50 hints/exercise) indicates reliance on scaffolding
+    - Average session completion is only 55.5%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Newton's Laws of Motion (P(mastery)=8.6%)
+    -> Kinematics (P(mastery)=8.6%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Introduction to Calculus (P(mastery)=9.6%)
+    -> Functions & Graphs (P(mastery)=9.5%)
+    -> Trigonometry (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is STAGNANT.
+    Current learning strategies are not producing measurable improvement.
+
+  [17] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Severity: 0.521 | Confidence: 1.000 | P(Mastery): 9.5%
+
+  [Prerequisite Cascade Effect] Quadratic Equations (Mathematics)
+  
+  WHY this is a weakness:
+    - Bayesian Knowledge Tracing estimates only 9.5% mastery probability (threshold: 50%)
+    - Average test accuracy is 20.0% across 3 attempts
+    - High question skip rate of 36.7% suggests avoidance or lack of confidence
+    - Practice accuracy is 11.2% across 6 sessions
+    - Average session completion is only 59.2%
+  
+  ROOT CAUSE ANALYSIS:
+    This weakness likely stems from gaps in prerequisite topics:
+    -> Linear Equations (P(mastery)=9.5%)
+    -> Algebra Basics (P(mastery)=9.5%)
+    Addressing these foundational gaps first will have cascading benefits.
+  
+  TREND: Performance is STAGNANT.
+    Current learning strategies are not producing measurable improvement.
+
+--------------------------------------------------------------------------------
+  PRIORITIZED RECOMMENDATIONS
+--------------------------------------------------------------------------------
+
+  PRIORITY 1 - Address Foundational Gaps First:
+  (These weaknesses cascade into multiple downstream topics)
+    -> Algebra Basics: affects 11 downstream topics
+    -> Linear Equations: affects 8 downstream topics
+    -> Control Flow (if/else/loops): affects 4 downstream topics
+    -> Functions & Graphs: affects 4 downstream topics
+    -> Kinematics: affects 3 downstream topics
+    -> Trigonometry: affects 3 downstream topics
+    -> Functions & Scope: affects 3 downstream topics
+
+  PRIORITY 2 - Halt Declining Performance:
+  (These topics are getting worse over time)
+    -> Linear Equations: mastery declining at -0.2597/observation
+    -> Algebra Basics: mastery declining at -0.1088/observation
+    -> Control Flow (if/else/loops): mastery declining at -0.1668/observation
+    -> Functions & Graphs: mastery declining at -0.0205/observation
+    -> Kinematics: mastery declining at -0.0363/observation
+    -> Data Structures: mastery declining at -0.0730/observation
+    -> Probability: mastery declining at -0.0883/observation
+    -> Algorithms & Complexity: mastery declining at -0.0434/observation
+    -> Waves & Oscillations: mastery declining at -0.0227/observation
+    -> Functions & Scope: mastery declining at -0.0273/observation
+    -> Statistics: mastery declining at -0.0654/observation
+
+  GENERAL RECOMMENDATIONS:
+    1. Focus on prerequisite topics before advancing to dependent topics
+    2. For effort-gap topics, consider changing instructional strategies
+    3. For declining topics, investigate if recent material is too advanced
+    4. For disengagement topics, consider gamification or peer learning
+
+--------------------------------------------------------------------------------
+  MODEL VALIDATION (against ground truth)
+--------------------------------------------------------------------------------
+
+  Ground truth weak topics: 17
+  Detected weak topics:     17
+  True positives:           17
+  False positives:          0
+  False negatives:          0
+
+  Precision: 100.0%
+  Recall:    100.0%
+  F1 Score:  100.0%
+
+  Mastery Estimation Comparison:
+  Topic                          True Mastery    Estimated P(M)  Error     
+  -----                          ------------    --------------  -----     
+  algebra_basics                 0.278           0.095           0.183     
+  algorithms                     0.100           0.132           0.032     
+  calculus_intro                 0.100           0.096           0.004     
+  control_flow                   0.155           0.133           0.022     
+  data_structures                0.100           0.133           0.033     
+  functions                      0.122           0.095           0.026     
+  functions_prog                 0.302           0.132           0.170     
+  kinematics                     0.205           0.086           0.119     
+  linear_eq                      0.269           0.095           0.174     
+  newtons_laws                   0.150           0.086           0.063     
+  probability                    0.155           0.097           0.058     
+  quadratic_eq                   0.123           0.095           0.028     
+  recursion                      0.101           0.132           0.031     
+  statistics                     0.226           0.095           0.131     
+  trigonometry                   0.100           0.095           0.005     
+  waves                          0.100           0.080           0.020     
+  work_energy                    0.100           0.080           0.020     
+
+  Mean Absolute Error (weak topics): 0.066
+
+--------------------------------------------------------------------------------
+  METHODOLOGY
+--------------------------------------------------------------------------------
+
+  This report was generated by the Multi-Signal Bayesian Weakness
+  Reasoning Engine, which combines:
+
+  1. Bayesian Knowledge Tracing (BKT)
+     - Hidden Markov Model estimating P(mastery) from response sequences
+     - Domain-specific parameters for Math, Physics, Programming
+     - Same approach used by Carnegie Learning and Khan Academy
+
+  2. Multi-Source Signal Fusion
+     - Test performance: accuracy, skip rate, time anomalies
+     - Practice patterns: hint dependency, retry rate, completion
+     - Engagement metrics: time investment, help-seeking, resource usage
+
+  3. Knowledge Dependency Graph
+     - 22-node DAG mapping prerequisite relationships across 3 domains
+     - Enables root-cause analysis: traces weaknesses to foundational gaps
+     - Measures downstream impact: how many topics a weakness affects
+
+  4. Temporal Trend Analysis
+     - Mastery velocity: is the learner improving, stagnating, or declining?
+     - Accuracy trend slopes from linear regression
+
+  5. Severity Scoring (Weighted Composite)
+     - 30% Inverse mastery probability
+     - 25% Downstream impact breadth
+     - 15% Declining trend amplifier
+     - 15% Evidence density
+     - 15% Prerequisite cascade depth
+
+  6. Confidence Estimation
+     - Based on observation count and consistency
+     - Prevents over-confident conclusions from sparse data
+
+================================================================================
+  END OF REPORT
+================================================================================
